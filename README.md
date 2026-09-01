@@ -3,7 +3,7 @@
   
 - 📖 Estou cursando Ciências da Computação na PUC Minas.
   
-- 🔭 Busco novas experiências prificionais na área da computação.
+- 🔭 Trabalho com desenvolvimento e infraestrutura.
   
 - 💬 Sou uma pessoa dedicada, responsável, extrovertida e persistente.
 
